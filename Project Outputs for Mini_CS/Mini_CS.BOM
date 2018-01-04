@@ -1,0 +1,32 @@
+Bill of Material for 
+On 22/11/2017 at 15:34:59
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1%                1608[0603]       4    R1, R2, R4, R5               Resistor             
+ 0.1uF               1608[0603]       5    C6, C8, C10, C11, C12        Capacitor (Semiconductor SIM Model) 
+ 1.13k               1608[0603]       1    R6                           Resistor             
+ 1.6nF               1608[0603]       2    C4, C5                       Capacitor (Semiconductor SIM Model) 
+ 10k                 1608[0603]       1    R10                          Resistor             
+ 10nF                1608[0603]       1    C7                           Capacitor (Semiconductor SIM Model) 
+ 10uF                1608[0603]       3    C9, C19, C20                 Capacitor (Semiconductor SIM Model) 
+ 160pF               1608[0603]       1    C3                           Capacitor (Semiconductor SIM Model) 
+ 1k                  1608[0603]       1    R8                           Resistor             
+ 20k                 1608[0603]       2    R9, R11                      Resistor             
+ 330                 1608[0603]       1    R15                          Resistor             
+ 50k                 1608[0603]       1    R12                          Resistor             
+ 5k                  1608[0603]       1    R3                           Resistor             
+ 8.87k               1608[0603]       1    R7                           Resistor             
+ AD9833BRMZ          ADI-RM-10_M      1    U3                           Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free 
+ ADG731BCPZ          ADI-CP-48-1_M    2    U4, U5                       1.8 to 5.5 V / +/-2.5 V, 4 Ohm, Serially Controlled, 32-Channel Analog Multiplexer, -40 to 85 degC, 48-pin QFN (CP-48-1), Tray 
+ Cap Semi            1608[0603]       2    C1, C2                       Capacitor (Semiconductor SIM Model) 
+ Header 2            HDR1X2           1    P1                           Header, 2-Pin        
+ LTC1044ACS8         LT-S8-8_M        1    U7                           12 V CMOS Voltage Converter, 8-pin SOIC (S8-8), 0 to 70 degC 
+ LTC6900IS5#PBF      LT-TSOT-23-5_V    1    U6                           Low Power, Resistor Set Oscillator, 1 KHz to 20 MHz, 2.7 to 5.5 V, -40 to 85 degC, 5-Pin SOT-23 (S5), Pb-Free 
+ MHDR2X16            MHDR2X16         1    P2                           Header, 16-Pin, Dual row 
+ MHDR2X2             MHDR2X2          1    P8                           Header, 2-Pin, Dual row 
+ MHDR2X4             MHDR2X4          2    P4, P6                       Header, 4-Pin, Dual row 
+ OPA2188AIDR         D0008A_L         2    U1, U2                       0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br) 
+ TESTPOINT_WHITE     TestPointVia     9    TP1, TP2, TP3, TP4, TP5, TP6                      
+                                           TP7, TP12, TP13
+ TLMS1100-GS08       VISH-TLMX1100_V    1    DS2                          LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel 
