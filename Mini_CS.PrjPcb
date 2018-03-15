@@ -157,6 +157,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWJUNAAE
 
+[Document8]
+DocumentPath=Mini_CS.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Mini_CS\Mini_CS.BOM
 DItemRevisionGUID=
