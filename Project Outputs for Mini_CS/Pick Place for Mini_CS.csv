@@ -24,11 +24,11 @@ C12,10uF,10uF,BottomLayer,1608[0603],17.4,16.6,180,Capacitor (Semiconductor SIM 
 C13,10uF,10uF,BottomLayer,1608[0603],17.8,5.7,360,Capacitor (Semiconductor SIM Model),Customer supplied,
 C14,0.1uF,0.1uF,TopLayer,1608[0603],12.5,6.1,360,Capacitor (Semiconductor SIM Model),Free component,1759037
 DS1,,TLMS1100-GS08,TopLayer,VISH-TLMX1100_V,4.1,25.9,270,"LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel",Customer supplied,
-P1,,Header 4X2,TopLayer,HDR2X4,11.11,31.67,180,"Header, 4-Pin, Dual row",.,
+P1,,Header 4X2,TopLayer,HDR2X4,11.11,31.67,180,"Header, 4-Pin, Dual row",Customer supplied,
 P2,,Header 2,TopLayer,HDR1X2,19,29.37,270,"Header, 2-Pin",Not fitted,
-P3,,MHDR2X18,TopLayer,A79025-001,10.4,48.94,360,"Header, 18-Pin, Dual row",User supplied,
-P4,,Header 16X2,BottomLayer,FTSH-117-XX-XXX-DH,11.025,52.324,180,"Header, 16-Pin, Dual row",User supplied,
-P5,,Header 4X2,TopLayer,HDR2X4,7.37,2.33,180,"Header, 4-Pin, Dual row",.,
+P3,,MHDR2X18,TopLayer,A79025-001,10.4,48.94,360,"Header, 18-Pin, Dual row",Customer supplied,
+P4,,Header 16X2,BottomLayer,FTSH-117-XX-XXX-DH,11.025,52.324,180,"Header, 16-Pin, Dual row",Customer supplied,
+P5,,Header 4X2,TopLayer,HDR2X4,7.37,2.33,180,"Header, 4-Pin, Dual row",Customer supplied,
 R1,10k,10k,BottomLayer,6-0805_M,2.6,7.4,90,Resistor,Customer supplied,
 R2,1.1k,1.1k,TopLayer,6-0805_M,3.6,17.8,90,Resistor,Free component,2350953
 R3,9.1k,9.1k,TopLayer,6-0805_M,5.6,17.8,270,Resistor,Free component,2129193
