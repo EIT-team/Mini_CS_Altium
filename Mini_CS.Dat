@@ -1,28 +1,24 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Value~String~Value~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Mini_CS.PrjPcb|ReportField=ProjectFullPath~D:\Documents\Circuit layouts, schematics and misc technical\Altium\Mini_CS\Mini_CS.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [Mini_CS.PcbDoc]|ReportField=TotalQuantity~50|ReportField=ReportTime~10:42:39|ReportField=ReportDate~15/03/2018|ReportField=ReportDateTime~15/03/2018 10:42:39|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Mini_CS.PcbDoc|ReportField=DataSourceFullPath~D:\Documents\Circuit layouts, schematics and misc technical\Altium\Mini_CS\Mini_CS.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
-1|160pF|160pF|Capacitor (Semiconductor SIM Model)|C1|1608[0603]|Cap Semi|1
-2|1.6nF|1.6nF|Capacitor (Semiconductor SIM Model)|C2, C3|1608[0603]|Cap Semi|2
-3|0.1uF|0.1uF|Capacitor (Semiconductor SIM Model)|C4, C6, C8, C9, C14|1608[0603]|Cap Semi|5
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Value~String~Value~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Mini_CS.PrjPcb|ReportField=ProjectFullPath~D:\Documents\Circuit layouts, schematics and misc technical\Altium\Mini_CS\Mini_CS.PrjPcb|ReportField=Title~Bill of Materials For Project [Mini_CS.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~50|ReportField=ReportTime~13:24:58|ReportField=ReportDate~22/03/2018|ReportField=ReportDateTime~22/03/2018 13:24:58|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~22/03/2018|ReportField=CurrentTime~13:24:51|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Documents\Circuit layouts, schematics and misc technical\Altium\Mini_CS\AD9833_Single_Ended.SchDoc|ReportField=DocumentName~AD9833_Single_Ended.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~15/03/2018|ReportField=Organization~|ReportField=ProjectName~Mini_CS.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Mini_CS.PrjPcb|ReportField=DataSourceFullPath~D:\Documents\Circuit layouts, schematics and misc technical\Altium\Mini_CS\Mini_CS.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|150pF|150pF|Capacitor (Semiconductor SIM Model)|C1|1608[0603]|Cap Semi|1
+2|1.5nF|1.5nF|Capacitor (Semiconductor SIM Model)|C2, C3|1608[0603]|Cap Semi|2
+3|0.1uF|0.1uF|Capacitor (Semiconductor SIM Model)|C4, C6, C8, C9, C10, C11, C14|1608[0603]|Cap Semi|7
 4|10nF|10nF|Capacitor (Semiconductor SIM Model)|C5|1608[0603]|Cap Semi|1
 5|10uF|10uF|Capacitor (Semiconductor SIM Model)|C7, C12, C13|1608[0603]|Cap Semi|3
-6|Cap Semi|0.1uF|Capacitor (Semiconductor SIM Model)|C10, C11|1608[0603]|Cap Semi|2
+6|TESTPOINT_WHITE|||CLK, DDS, FILT, FSYNC, G, SCLK, SDAT, V+, V-|TestPointVia|TESTPOINT_WHITE|9
 7|TLMS1100-GS08||LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel|DS1|VISH-TLMX1100_V|CMP-1666-00027-1|1
-8|Header 4X2A||Header, 4-Pin, Dual row|P1|HDR2X4_CEN|Header 4X2A|1
+8|Header 4X2||Header, 4-Pin, Dual row|P1, P5|HDR2X4|Header 4X2|2
 9|Header 2||Header, 2-Pin|P2|HDR1X2|Header 2|1
 10|MHDR2X18||Header, 18-Pin, Dual row|P3|A79025-001|MHDR2X18|1
 11|Header 16X2||Header, 16-Pin, Dual row|P4|FTSH-117-XX-XXX-DH|Header 16X2|1
-12|Header 4X2||Header, 4-Pin, Dual row|P5|HDR2X4|Header 4X2|1
-13|10k|10k|Resistor|R1, R9|6-0805_M|Res1|2
-14|1.13k|1.13k|Resistor|R2|6-0805_M|Res1|1
-15|8.87k|8.87k|Resistor|R3|6-0805_M|Res1|1
-16|1k|1k|Resistor|R4|6-0805_M|Res1|1
-17|0.1%|100K|Resistor|R5, R6, R11, R12|6-0805_M|Res1|4
-18|50k|50k|Resistor|R7|6-0805_M|Res1|1
-19|20k|20k|Resistor|R8, R14|6-0805_M|Res1|2
-20|5k|5k|Resistor|R10|6-0805_M|Res1|1
-21|330|330|Resistor|R13|6-0805_M|Res1|1
-22|TESTPOINT_WHITE|||TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9|TestPointVia|TESTPOINT_WHITE|9
-23|OPA2188AIDR||0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|U1, U3|D0008A_L|CMP-0272-00241-3|2
-24|AD9833BRMZ||Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free|U2|ADI-RM-10_M|CMP-0293-00077-1|1
-25|ADG731BSUZ||1.8 to 5.5 V / +/-2.5 V, 4 Ohm, Serially Controlled, 32-Channel Analog Multiplexer, -40 to 85 degC, 48-pin QFP (SU-48), Tray|U4, U5|ADI-SU-48_N|CMP-0798-00240-1|2
-26|LTC1044ACS8||12 V CMOS Voltage Converter, 8-pin SOIC (S8-8), 0 to 70 degC|U6|LT-S8-8_M|CMP-0475-00491-1|1
-27|LTC6900IS5#PBF||Low Power, Resistor Set Oscillator, 1 KHz to 20 MHz, 2.7 to 5.5 V, -40 to 85 degC, 5-Pin SOT-23 (S5), Pb-Free|U7|LT-TSOT-23-5_V|CMP-2000-06612-1|1
+12|10k|10k|Resistor|R1|6-0805_M|Res1|1
+13|1.1k|1.1k|Resistor|R2|6-0805_M|Res1|1
+14|9.1k|9.1k|Resistor|R3|6-0805_M|Res1|1
+15|1k|1k|Resistor|R4|6-0805_M|Res1|1
+16|0.1%|100K, 100K, 50k, 20k, 10k, 5k, 100K, 100K|Resistor|R5, R6, R7, R8, R9, R10, R11, R12|6-0805_M|Res1|8
+17|330|330|Resistor|R13|6-0805_M|Res1|1
+18|20k|20k|Resistor|R14|6-0805_M|Res1|1
+19|OPA2188AIDR||0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|U1, U3|D0008A_L|CMP-0272-00241-3|2
+20|AD9833BRMZ||Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free|U2|ADI-RM-10_M|CMP-0293-00077-1|1
+21|ADG731BSUZ||1.8 to 5.5 V / +/-2.5 V, 4 Ohm, Serially Controlled, 32-Channel Analog Multiplexer, -40 to 85 degC, 48-pin QFP (SU-48), Tray|U4, U5|ADI-SU-48_N|CMP-0798-00240-1|2
+22|LTC1044ACS8||12 V CMOS Voltage Converter, 8-pin SOIC (S8-8), 0 to 70 degC|U6|LT-S8-8_M|CMP-0475-00491-1|1
+23|LTC6900IS5#PBF||Low Power, Resistor Set Oscillator, 1 KHz to 20 MHz, 2.7 to 5.5 V, -40 to 85 degC, 5-Pin SOT-23 (S5), Pb-Free|U7|LT-TSOT-23-5_V|CMP-2000-06612-1|1
